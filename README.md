@@ -1,4 +1,4 @@
 Purple
 ======
 
-Purple is a simple web forum system written within PHP
+Purple is a simple forum system written in PHP.
